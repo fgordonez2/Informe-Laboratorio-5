@@ -10,15 +10,15 @@
 
 ***General***
 
-*Comprobar experimentalmente el Teorema de Thévenin, mediante el ensambla miento de un circuito lineal con dos terminales, empleando la plataforma de tinkercad, para emplear los conocimientos adquiridos en clase y verificar el funcionamiento de este*
+*Comprobar experimentalmente el Teorema de Thévenin en un circuito resistivo, mediante previos conocimientos  sobre  la  representación  de  un  circuito  lineal  activo,  con terminales a b, por otro circuito más sencillo; para resolver circuitos complejos de una forma más sencilla y rápida*
  
 ***Especificos*** 
 
-*- 
+*Verificar teóricamente las relacióndel teorema de Thevenin, para calcular la corriente que circula por la resistencia de carga*
 
-*- 
+*Calcular la resistencia interna de la fuente de voltaje, la corriente de corto circuito y potencia de corto circuito*
 
-*-
+*Demostrar la simplificación de un circuito complejo a uno más simple*
 
 ### 2. MARCO TEÓRICO
 
