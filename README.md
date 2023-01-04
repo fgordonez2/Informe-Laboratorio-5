@@ -10,7 +10,7 @@
 
 ***General***
 
-*- Comprobar experimentalmente el Teorema de Thévenin, mediante el ensambla miento de un circuito lineal con dos terminales, empleando la plataforma de tinkercad, para emplear los conocimientos adquiridos en clase y verificar el funcionamiento de este-*
+*Comprobar experimentalmente el Teorema de Thévenin, mediante el ensambla miento de un circuito lineal con dos terminales, empleando la plataforma de tinkercad, para emplear los conocimientos adquiridos en clase y verificar el funcionamiento de este*
  
 ***Especificos*** 
 
