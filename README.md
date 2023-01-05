@@ -66,9 +66,39 @@
 
 ### 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
-Se realizó el calculo del porcentaje de error que se tuvo tanto en la medición de voltaje aplicando superposición y medición de corriente aplicando superposición
+Se realizó el cálculo del porcentaje de error que se tuvo tanto en la medición de voltaje y resistencia de Thévenin. Así como el error que se tuvo al medir el circuito original y el circuito equivalente de Thévenin. 
 
 ![image](https://user-images.githubusercontent.com/116774906/210865945-607f2ae2-0b28-4c6e-98ac-5517ca72afa0.png)
+
+**Porcentaje de error del voltaje y resistencia de Thévenin.**
+
+*Voltaje*
+
+![image](https://user-images.githubusercontent.com/116774906/210868119-d8ac1b73-fd86-4b8c-be42-c21c9e068036.png)
+
+*Resistencia.*
+
+![image](https://user-images.githubusercontent.com/116774906/210868190-5a5c1f7a-75f9-4a6d-8496-ff0808100ca9.png)
+
+**Porcentaje de error del teorema de Thévenin.**
+
+*Circuito Original- Voltaje.*
+
+![image](https://user-images.githubusercontent.com/116774906/210868324-c1db6ec6-7b2f-44f7-9955-008b36d2353a.png)
+
+*Circuito Original- Corriente.*
+
+![image](https://user-images.githubusercontent.com/116774906/210868396-6cd78374-870c-4649-98db-5e3364531312.png)
+
+*Circuito Equivalente de Thévenin- Voltaje.*
+
+![image](https://user-images.githubusercontent.com/116774906/210868483-91c8f9a3-9950-4dac-8aad-bc3ebce1e2b0.png)
+
+*Circuito Equivalente de Thévenin - Corriente.*
+
+![image](https://user-images.githubusercontent.com/116774906/210868562-6eb06da0-899c-4443-9f2f-081d20adf66b.png)
+
+**El porcentaje de error entre el circuito original y el circuito equivalente de Thévenin es el mismo por lo que se puede concluir que las mediciones y cálculos son correctos.**
 
 ### 5. VIDEO
 
