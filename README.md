@@ -116,4 +116,5 @@ Se realizó el cálculo del porcentaje de error que se tuvo tanto en la medició
 
 ### 7._ BIBLIOGRAFÍA
 
-FLOYD, THOMAS L.Principios de circuitos eléctricos. Octava edición. PEARSON EDUCACIÓN, México, 2007
+- FLOYD, THOMAS L.Principios de circuitos eléctricos. Octava edición. PEARSON EDUCACIÓN, México, 2007
+- BOYLESTAD, ROBERT L. Introducción al análisis de circuitos. PEARSON EDUCACIÓN, México, 2004
