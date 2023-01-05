@@ -66,6 +66,9 @@
 
 ### 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
+Se realizó el calculo del porcentaje de error que se tuvo tanto en la medición de voltaje aplicando superposición y medición de corriente aplicando superposición
+
+![image](https://user-images.githubusercontent.com/116774906/210865945-607f2ae2-0b28-4c6e-98ac-5517ca72afa0.png)
 
 ### 5. VIDEO
 
