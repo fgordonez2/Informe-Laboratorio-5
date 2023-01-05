@@ -14,7 +14,9 @@
  
 ***Especificos*** 
 
-*Verificar teóricamente las relacióndel teorema de Thevenin, para calcular la corriente que circula por la resistencia de carga*
+*Indagar como beneficia usar el teorema de Thevenin, en la resolución de un circuito.*
+
+*Verificar teóricamente las relación del teorema de Thevenin, para calcular la corriente que circula por la resistencia de carga*
 
 *Calcular la resistencia interna de la fuente de voltaje, la corriente de corto circuito y potencia de corto circuito*
 
