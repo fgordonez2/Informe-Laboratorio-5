@@ -28,13 +28,43 @@
 
 ### 3. EXPLICACIÓN DEL PROCEDIMIENTO
 
+*5.5.1. Arme el circuito que se muestra en la figura 5.1.*
 
+![image](https://user-images.githubusercontent.com/104925648/210709721-5fbf262f-7dc6-4326-9470-d54742ee076e.png)
+
+*5.5.2. Mida el voltaje y la corriente en el resistor R5, anote los resultados en la tabla 5.2.*
+
+![image](https://user-images.githubusercontent.com/104925648/210709880-73fe08c4-7a97-47ce-af9e-86d10c957420.png)
+
+![image](https://user-images.githubusercontent.com/104925648/210709930-069f90a1-281e-409d-9b61-8b8a1dbf8e39.png)
+
+![image](https://user-images.githubusercontent.com/104925648/210709995-914fd57d-162d-4947-8406-b13c447036d4.png)
+
+![image](https://user-images.githubusercontent.com/104925648/210710023-964e888f-96a3-4ebd-bfc3-8b1e3a6662ae.png)
+
+*5.5.3. Desconecte el resistor R5 y mida el voltaje en el circuito abierto. Anote el valor medido en la tabla 5.1.*
+
+![image](https://user-images.githubusercontent.com/104925648/210710144-30bc31e2-d4b4-4abc-a314-7a37c5387d70.png)
+
+![image](https://user-images.githubusercontent.com/104925648/210710195-6416fb8d-12a4-4711-a21d-5c08eb8c31cf.png)
+
+*5.5.4. Anule el efecto de las fuentes de alimentación. Desconecte R5 y desde el circuito abierto resultante mida la resistencia equivalente. 
+        Anote el valor medido en la tabla 5.1.*
+
+![image](https://user-images.githubusercontent.com/104925648/210710304-6fa288f3-93ad-4559-8152-9fd9abce95cb.png)
+
+![image](https://user-images.githubusercontent.com/104925648/210710342-8c860e1e-8994-41ef-9f20-2488334c9340.png)
+
+5.5.5. Implemente el circuito equivalente de Thévenin, agregue el resistor R5 y mida la corriente y el voltaje en el mismo, anote los resultados en la tabla 5.2.*
+
+![image](https://user-images.githubusercontent.com/104925648/210710395-8379ea2e-4582-4575-998b-d57d8dabb178.png)
+
+![image](https://user-images.githubusercontent.com/104925648/210710424-23202a6f-2d33-43d1-9127-f2f519b1222f.png)
+
+![image](https://user-images.githubusercontent.com/104925648/210710523-62149071-4632-406a-9ad1-3539e675910c.png)
 
 
 ### 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
-
-
-
 
 
 ### 5. VIDEO
