@@ -65,6 +65,18 @@
 
 ![image](https://user-images.githubusercontent.com/104925648/210710523-62149071-4632-406a-9ad1-3539e675910c.png)
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+*MEDICIONES DEL CIRCUITO EN FÍSICO*
+
+![image](https://user-images.githubusercontent.com/104925648/211012035-10c1b76f-3280-4379-a9af-774267cb10e5.png)
+
+![image](https://user-images.githubusercontent.com/104925648/211012059-13d243f9-fbce-452f-bf28-704e411f3696.png)
+
+![image](https://user-images.githubusercontent.com/104925648/211012081-b112675d-7ee2-4d7e-a5b9-d50d27f9611e.png)
+
+![image](https://user-images.githubusercontent.com/104925648/211012112-be09c5e9-8870-41fd-92f3-e19469cc4505.png)
+
 
 ### 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
